@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void mostrarResultado(const char *operacion, int resultado[2][3]) ;
 void completarMatrices ( int matrizA [2][3] , int matrizB [2][3]);
 void sumaMatrices (int matrizA [2][3], int matrizB [2][3], int  suma [2][3]);
